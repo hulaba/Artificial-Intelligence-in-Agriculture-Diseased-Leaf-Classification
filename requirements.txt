@@ -1,12 +1,11 @@
-Flask==1.1.2
-Flask-Cors==3.0.8
 h5py==2.10.0
-jsonify==0.5
 numpy==1.18.4
+matplotlib
+seaborn
 pandas==1.0.3
 Pillow==7.1.2
 scikit-learn==0.23.1
 scipy==1.4.1
 seaborn==0.10.1
 tensorflow==2.2.0
-Werkzeug==1.0.1
+
